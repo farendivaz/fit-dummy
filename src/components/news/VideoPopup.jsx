@@ -8,7 +8,7 @@ const VideoPopup = () => {
   };
 
   return (
-    <div className="text-center flex justify-center gap-8 w-11/12 mt-8">
+    <div className="text-center flex justify-center gap-8 w-full mt-8">
       <div className="relative aspect-video w-96">
         <img
           className=" aspect-video w-96"
